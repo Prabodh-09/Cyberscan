@@ -19,7 +19,7 @@ GameSecure is a prototype Android application that scans gaming applications for
 - Android  
 
 ##Home Screen
-![Image](https://github.com/user-attachments/assets/ea485b11-f0c9-4bb5-a1ab-f1f8255aff3e)
+![Image](https://github.com/user-attachments/assets/25ec6161-6498-423b-8831-5976de3a33db)
 
 ##Game Info
 ![Image](https://github.com/user-attachments/assets/2d971ac6-ddfc-4e71-b78c-bf19b4b70dcc)
